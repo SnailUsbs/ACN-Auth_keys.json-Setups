@@ -15,4 +15,4 @@ Currently there is only 1 pre made auth_keys.json file, but more will be added i
 
 # The Pre-made Auth_keys.json files
 
-- **Admin, Mod, and Elite options pre made:**
+- **Admin, Mod, and Elite options pre made:** https://github.com/SnailUsbs/ACN-Auth_keys.json-Setups/blob/main/Premade%20Auth_keys.json%20files/Admin%2C%20Mod%2C%20Elite%20keys%20(rename%20to%20auth_keys.json).json
