@@ -1,0 +1,34 @@
+{
+  "Users": {
+    "555": {
+      "UserKind": "Admin",
+      "Tags": [
+        "elite"
+      ],
+      "Badges": [
+        104
+      ],
+      "Description": "Pre-made Admin Auth key"
+    },
+    "848": {
+      "UserKind": "Mod",
+      "Tags": [
+        "elite"
+      ],
+      "Badges": [
+        104
+      ],
+      "Description": "Pre-made Mod Admin Key"
+    },
+    "902": {
+      "UserKind": "Player",
+      "Tags": [
+        "elite"
+      ],
+      "Badges": [
+        104
+      ],
+      "Description": "Pre-made \"elite\" player key"
+    }
+  }
+}
