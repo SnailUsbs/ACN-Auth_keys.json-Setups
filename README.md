@@ -6,9 +6,12 @@ Auth Keys in All City Network handle badges, admin status, and special modes lik
 ## Auth_key.json Explained:
 The auth_key.json is a file where you make special keys for badges, admins, and players with special effects. For each key you make, you just make a new entire set of "userkind, badges, tags, key, and description". It must be formated correctly though.
 
-- **Where Do The Players Put The Auth Key?:** Players add their key in the config/BombrushMP/auth.txt file. You can search "auth" in the R2ModMan config editor as well to easily find it.
+- **The Pre-made auth_keys.json files can be found here ->** https://github.com/SnailUsbs/ACN-Auth_keys.json-Setups/tree/main/Premade%20Auth_keys.json%20files
 
 - **If you just want to automate the entire auth_key.json proccess, you can use:** https://github.com/SnailUsbs/ACN-Auth_keys.json-Setups/blob/main/auth_keys_manager.py
+
+
+- **Where Do The Players Put The Auth Key?:** Players add their key in the config/BombrushMP/auth.txt file. You can search "auth" in the R2ModMan config editor as well to easily find it.
 
 ## User Kinds:
 The user kind option in the auth_keys.json file is how you can gives yourself or others Admin/Mod perms. 
